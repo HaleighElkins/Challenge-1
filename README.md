@@ -27,3 +27,9 @@ Module 1 Challenge
 * THEN they fall in sequential order
    * WHEN I view the title element
 * THEN I find a concise, descriptive title
+
+## Credits
+
+I have worked a few up my fellow students to collabrate and help each other, incudling Tim Lewis and Rebecca Feltman. 
+I have also used google to make sure I was not missing any of my HTML elements and that they are in logical structure. 
+The main webiste I used was: https://www.w3schools.com/html/html5_semantic_elements.asp
