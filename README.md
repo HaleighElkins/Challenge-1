@@ -4,11 +4,11 @@ Module 1 Challenge
 
 ## Description
 
-The task was to refactor the exsiting webpage for "Horiseon" to make it accessible by completing the following: 
+*The task was to refactor the exsiting webpage for "Horiseon" to make it accessible by completing the following: 
 
-Ensure that links all function correctly. 
+*Ensure that links all function correctly. 
 
-Clean up CSS to make it more effcient by consolidating CSS selectors and properties and organizing them to follow the semantic structure of the HTML Elements. 
+*Clean up CSS to make it more effcient by consolidating CSS selectors and properties and organizing them to follow the semantic structure of the HTML Elements. 
 
 ## User Story 
 AS A marketing agency
