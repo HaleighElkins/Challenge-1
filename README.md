@@ -30,6 +30,6 @@ Module 1 Challenge
 
 ## Credits
 
-I have worked a few up my fellow students to collabrate and help each other, incudling Tim Lewis and Rebecca Feltman. 
+I have worked with a few up my fellow students to collabrate and help each other, incudling Tim L and Rebecca F. 
 I have also used google to make sure I was not missing any of my HTML elements and that they are in logical structure. 
 The main webiste I used was: https://www.w3schools.com/html/html5_semantic_elements.asp
